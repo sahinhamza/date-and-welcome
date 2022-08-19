@@ -1,5 +1,5 @@
-*Frontend Bootcamp Hazırlık Programı 5.Hafta
+*Kodluyoruz Frontend Wep Development Bootcamp
 
-*Ödev 1
+*Homework
 
-*Javascript Saat ve Karşılama
+*Javascript Date and Welcome
