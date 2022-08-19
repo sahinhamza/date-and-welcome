@@ -1,5 +1,5 @@
-*Kodluyoruz Frontend Wep Development Bootcamp
+* Kodluyoruz Frontend Wep Development Bootcamp
 
-*Homework
+* Homework
 
-*Javascript Date and Welcome
+* Javascript Date and Welcome

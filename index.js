@@ -16,7 +16,6 @@ welcome.innerHTML = `Hello <strong>${user_name}</strong>, Welcome!` ?? "" //welc
 welcome.style.fontSize = "100%"
 welcome.style.lineHeight = "0.5"
 
-
 // data information.
 function startTime() {
   const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
@@ -40,12 +39,10 @@ function checkTime(i) {
 
 startTime()
 
-
 let text = "Kodluyoruz Frontend Wep Development Bootcamp";
 bottom.innerHTML = ` <strong>${text}</strong>` //bottom info.
 bottom.style.fontSize = "100%"
 
-
 let text_ = "You are in the 1st Homework of the Javascript section."
 bottom_.innerHTML = `${text_}` //bottom info.
-bottom_.style.fontSize ="80%"
+bottom_.style.fontSize = "80%"
